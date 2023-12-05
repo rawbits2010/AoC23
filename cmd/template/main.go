@@ -1,8 +1,9 @@
 package main
 
 import (
-	"AoC22/internal/inputhandler"
 	"fmt"
+
+	"github.com/rawbits2010/AoC23/internal/inputhandler"
 )
 
 func main() {
